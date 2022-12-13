@@ -5,7 +5,7 @@
       "type": "rprompt",
       "segments": [
         {
-          "foreground": "#007ACC",
+          "foreground": "#cc5200",
           "properties": {
             "time_format": "15:04:05"
           },
@@ -19,7 +19,7 @@
       "alignment": "left",
       "segments": [
         {
-          "background": "#ffffff",
+          "background": "#dd6b00",
           "foreground": "#100e23",
           "powerline_symbol": "\ue0b0",
           "style": "powerline",
@@ -27,7 +27,7 @@
           "type": "session"
         },
         {
-          "background": "#91ddff",
+          "background": "#fa7900",
           "foreground": "#100e23",
           "powerline_symbol": "\ue0b0",
           "properties": {
@@ -41,7 +41,7 @@
           "type": "path"
         },
         {
-          "background": "#95ffa4",
+          "background": "#dbb300",
           "foreground": "#193549",
           "powerline_symbol": "\ue0b0",
           "style": "powerline",
